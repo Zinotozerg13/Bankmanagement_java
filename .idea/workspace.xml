@@ -19,7 +19,11 @@
   </component>
   <component name="Git.Settings">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+=======
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+>>>>>>> origin/master
 =======
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
 >>>>>>> origin/master
@@ -35,6 +39,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
 <<<<<<< HEAD
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
@@ -63,6 +68,8 @@
   }
 }]]></component>
 =======
+=======
+>>>>>>> origin/master
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Application.Conn.executor&quot;: &quot;Run&quot;,
@@ -89,6 +96,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
 >>>>>>> origin/master
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
