@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d03cb63-4b40-443b-a5a4-dbf33fe36618" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bank Management System.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bank_management/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,32 +33,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Conn.executor": "Run",
-    "Application.Deposit.executor": "Run",
-    "Application.Login.executor": "Run",
-    "Application.SIgnupThree.executor": "Run",
-    "Application.SignupOne.executor": "Run",
-    "Application.SignupThree.executor": "Run",
-    "Application.SignupTwo.executor": "Run",
-    "Application.Transactions.executor": "Run",
-    "Application.Withdraw.executor": "Run",
-    "Application.balanceEnquiry.executor": "Run",
-    "Application.fastCash.executor": "Run",
-    "Application.miniStatement.executor": "Run",
-    "Application.pinChange.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Ronish/Downloads/mysql-connector-j-9.1.0/mysql-connector-j-9.1.0/mysql-connector-j-9.1.0.jar",
-    "onboarding.tips.debug.path": "C:/Users/Ronish/Desktop/java prog/Bank Management System/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Conn.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Deposit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Login.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SIgnupThree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SignupOne.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SignupThree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SignupTwo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Transactions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Withdraw.executor&quot;: &quot;Run&quot;,
+    &quot;Application.balanceEnquiry.executor&quot;: &quot;Run&quot;,
+    &quot;Application.fastCash.executor&quot;: &quot;Run&quot;,
+    &quot;Application.miniStatement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pinChange.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ronish/Downloads/mysql-connector-j-9.1.0/mysql-connector-j-9.1.0/mysql-connector-j-9.1.0.jar&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Ronish/Desktop/java prog/Bank Management System/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Ronish\Desktop\java prog\Bank Management System\src\icons" />
